@@ -21,5 +21,5 @@ http-request ^https?://(ios\.baertt|kandian\.wkandian)\.com/v5/user/app_stay\.js
 # cron "30 6 * * *" script-path=https://raw.githubusercontent.com/ztxtop/x/main/youth_banner.js, enabled=true, tag=中青看看赚
 
 # QX构造请求配置
-# 30 6 * * * https://raw.githubusercontent.com/ztxtop/x/main/youth_banner.js, tag=中青看看赚, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png, enabled=true
+# 30 6 * * * https://raw.githubusercontent.com/npcec/x/main/youth_banner.js, tag=中青看看赚, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png, enabled=true
 
